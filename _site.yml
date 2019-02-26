@@ -3,7 +3,7 @@ output_dir: "."
 navbar:
   title: "Pavlovian Society Featured Faculty"
   left:
-    - text: "Pavlovian Society Featured Faculty"
+    - text: ""
       href: index.html
 output:
   html_document:

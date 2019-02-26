@@ -1,5 +1,5 @@
 ---
-title: ' Pavlovian Society Featured Faculty'
+title: ''
 output:
   html_document:
     toc: yes
