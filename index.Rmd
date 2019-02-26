@@ -1,9 +1,6 @@
 ---
 title: ' Pavlovian Society Featured Faculty'
 output:
-  pdf_document:
-    toc: yes
-    toc_depth: '1'
   html_document:
     toc: yes
     toc_depth: 1
