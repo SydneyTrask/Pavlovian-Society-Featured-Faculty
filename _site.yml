@@ -1,0 +1,11 @@
+name: "sydney-website"
+output_dir: "."
+navbar:
+  title: "Pavlovian Society Featured Faculty"
+  left:
+    - text: "Pavlovian Society Featured Faculty"
+      href: index.html
+output:
+  html_document:
+    theme: yeti
+    css: style.css
