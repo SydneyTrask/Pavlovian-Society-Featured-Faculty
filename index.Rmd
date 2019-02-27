@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![Dr. Sangha in her lab at Purdue University.](./photos/Sangha_lab.jpg)
 
-Dr. Susan Sangha is an Assistant Professor of Psychological Sciences at the Purdue University Institute for Integrative Neuroscience. Before starting her own lab in Purdue, Dr. Sangha received her PhD from the University of Calgary in the lab of Dr. Ken Lukowiak and completed separate postdoctoral fellowships under Dr. Hans-Christian Pape and Dr. Patricia Janak. Dr. Sangha and her students combine elegant behavior with in vivo single-unit electrophysiology and pharmacogenetics to understand how the brain changes during fear, safety, and reward cue learning.
+Dr. Susan Sangha is an Assistant Professor of Neuroscience in the Department of Psychological Sciences at Purdue University and the Purdue Institute for Integrative Neuroscience. Before starting her own lab in Purdue, Dr. Sangha received her PhD from the University of Calgary in the lab of Dr. Ken Lukowiak and completed separate postdoctoral fellowships under Dr. Hans-Christian Pape and Dr. Patricia Janak. Dr. Sangha and her students combine elegant behavior with in vivo single-unit electrophysiology and pharmacogenetics to understand how the brain changes during fear, safety, and reward cue learning.
 
 -----
 
@@ -55,8 +55,7 @@ Over the years, it has become to me an interactive and supportive community fill
 
 ----
 
-This page was developed by Peter Euclide (peter.euclide@uwsp.edu) and maintained by Sydney Trask (trask@uwm.edu). A complete record of the Pavolvian Society's Featured Faculty series can be found at https://sydneytrask.github.io/Featured_Faculty.html
-
+This page was developed by Peter Euclide (peter.euclide@uwsp.edu) and maintained by Sydney Trask (trask@uwm.edu). 
 
 
 
