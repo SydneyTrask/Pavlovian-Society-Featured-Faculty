@@ -17,6 +17,54 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
+#May, 2019: Dr. Kate Wassum
+
+![_Dr. Wassum (front, second from left) with her lab at UCLA._](./photos/Wassum1.jpg)
+
+Dr. Kate Wassum is an Associate Professor of Psychology at the University of California Los Angeles. Dr. Wassum completed her graduate work under the advisement of Drs. Bernard Balleine and Nigel Maidment and completed her postdoctoral work with Dr. Maidment. In her lab at UCLA, Dr. Wassum and her trainees use a wide array of state-of-the-art techniques to complement nuanced behavioral designs in order to examine the neural circuits underlying distinct aspects of motivated behavior and decision making.
+
+<a href="https://twitter.com/KateWassum?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @KateWassum</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+###__What project are you currently most excited about in your lab?__
+
+I pretty excited about all the work going on in our lab. But at the top of my mind right now is a project we’ve been working on basically since I started the lab. We are picking apart the reciprocal cortical-amygdala circuit that helps you learn about rewarding events and then retrieve those memories in the future to make good reward pursuit decisions.
+
+###__Why is your research important to the general public?__
+
+What we’re trying to do is to figure out how your brain learns about rewarding events and how it uses that information to direct your actions, motivations, and decisions. This allows us to expose vulnerabilities in the brain that can lead to maladaptive behavior and mental illness. From there we work to figure out how to restore adaptive function, thus revealing new treatment strategies for mental illness and neurodegenerative diseases. In our lab, we focus on addiction and depression, though our goal is to make our basic science work relevant to a broad array of psychiatric conditions.
+
+###__What’s one skill or hobby you want to learn outside of science?__
+
+Photography. I love taking pictures, especially portraits. But lately my toddler won’t sit still for mommy’s photoshoots, so I’ve gotten more into travel/adventure photography. I’m learning, slowly but surely.
+
+###__What was the first research question you remember being excited about? Is it totally different from what you do now?__
+
+How do different addictive drugs differentially affect dopamine release in the nucleus accumbens? At the time, FSCV was all the rage and I found it incredibly exciting to give a subject a drug and immediately see how it’s dopamine release changed. It was incredibly reinforcing and the dopamine those data elicited in my nucleus accumbens is probably why I’m a scientist. I still study dopamine.
+
+###__Can you describe a turning point that was important to your career?__
+
+When I was a postdoc, David Jentsch invited me to lunch. I had no clue what he wanted to talk about. At that lunch he suggested I apply for the open faculty position in his department, UCLA Psychology. I was shocked, I didn’t think I was yet qualified to go on the job market. His confidence in me gave me confidence in myself. This is my current job and I absolutely love it. I’m incredibly grateful for this career-changing encouragement. I think sometimes as women we don’t put ourselves up for things (grants, jobs, promotions, awards, etc.) for fear we’re not going to be competitive, we’re not ready, we’re not qualified, whatever. In addition to leading to my current job, this experience taught me to just go for the things I want. I hope I’m effective in spreading this advice and encouragement to others.
+
+###__What’s your ideal Sunday out of the office?__
+
+Get up early and head to the Sunday Hollywood farmer’s market with my family. Have a huge breakfast from one of the vendors (usually a crepe or breakfast burrito), and get some delicious fresh local produce. My daughter stuffs herself on free samples. Afterwards we go for a hike in Runyon Canyon or maybe Griffith park if we’re feeling adventurous. Come home for a nap (you said ideal, right? In my ideal world parent naps are a thing). Then head to the park to play with my daughter, followed by happy hour with my family and friends.
+
+###__What do you love about the Pavlovian Society?__
+
+The behavior. I love that at this meeting the sophistication in neural analysis and behavioral analysis are both incredibly high. I think this leads to interesting and important advances in understanding associative learning and all the many processes it influences (motivation, emotion, decision making, etc.). I also love how I leave the meeting with lots of great ideas for future experiments and collaborations.
+
+![_Dr. Wassum hiking with her daughter. When asked how she decompresses after a rough day, she said, "I play with my daughter and drink some good wine. This never fails."_](./photos/Wassum2.jpg)
+
+---
+
+Questions for May compiled by Kristina M. Wright
+
+<a href="https://twitter.com/thisoldhandle?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @thisoldhandle</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 #April, 2019: Dr. Mihaela Iordanova
 
 ![_Dr. Iordanova at the annual meeting of the Pavlovian Society in 2013._](./photos/Mihaela_Pavlovian_2013.jpg)
