@@ -17,6 +17,50 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
+#June, 2019: Dr. Nicola Grissom
+
+![_Dr. Nicola Grissom showcasing her signature wit during a colloquium at Purdue University, presenting data on perseverative behaviors._](./photos/Grissom1.jpg)
+
+Dr. Nicola Grissom is an Assistant Professor in the Department of Psychology at the University of Minnesota. Dr. Grissom earned her doctorate under the advisement of Seema Bhatnagar at the University of Michigan and conducted her postdoctoral work at the University of Pennsylvania. In her lab at UMN, Dr. Grissom and her students study the molecular mechanisms of goal-directed behavior. They also conduct detailed behavioral work aiming to examine sex differences in motivated behavior, as well as how these systems differ in autism spectrum disorders. 
+
+<a href="https://twitter.com/NicolaGrissom?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @NicolaGrissom</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+###__What project are you currently most excited about in your lab?__
+The people in my lab have been working on some awesome projects! My graduate student Gerardo Rojas is beginning some experiments we've wanted to pursue for a few years now, related to how dopamine function might be different in mouse models of autism, and how this might relate to their different approaches to motivated behavior and executive function. He's already finding things I wouldn't have expected. It's thrilling to see something exist just because we had an idea. But equally exciting is the work my graduate student Cathy Chen is doing to understand how strategies in decision making in a reinforcement learning task differs in male and female animals, which is pulling us into research directions I didn't know existed a a few years ago. I admit that as thrilling as getting to find out answers to our burning questions can be, its even more satisfying to have people in the lab develop independence to come up with better questions than I ever would, and answer them. So I would say I'm most excited for the things I don't know yet!
+
+###__Looking back at your career so far, what are you most proud of?__
+Surviving! Surviving despite the fact that the vast majority of the time, I am basically winging it. But so is everybody else, for the most part.
+
+###__Is there any advice you want to give to trainees in the learning field?__
+There are lots of people employing learning techniques to prove a point about neuroscience that is fundamentally biological, and they aren't always doing a very careful job defining what they mean by psychological terms like learning. You have an opportunity as skilled observers of behavior to do science that addresses this problem, but to do so means figuring out which modern neuroscience techniques you want to incorporate into your training. Bridging this gap is incredibly exciting to me. We will never figure out how learning works by being precise in one domain and vague in another. 
+
+###__If you weren’t a scientist, what would you be?__
+Noted, independently wealthy bon vivant and wit. Or, failing this, I might work with animal behavior in some non-scientific way, like training animals for film productions. I really enjoy training both my own pets and other people's. In both of these career paths, there's a lot of figuring out how to connect with the individual in front of you, whether you are trying to make them laugh (humans), trying to make them sit (animals), or trying to make them shake hands (both).
+
+###__What’s your favorite pie?__
+Strawberry Rhubarb. Rhubarb looks like poisonous celery and somehow we are using it in pie? And it's delicious? Who is responsible for this.
+
+###__If you could go anywhere in the world and do anything for one day, where would you go and what would you do?__
+I once got to go to Lake Como, north of Milan, and ride the ferry between little towns on the lake. I would go back there and I would spend the day figuring out how to stay there longer than one day. 
+
+###__What is/are your favorite non-science related activity/activities?__
+I love shopping for necklaces. Shopping is not the most wholesome activity. Let me try again. I like to drink beverages, both nonalcoholic and boozy, in beautiful environments and listen to my friends. I also like to paint small paintings, usually about 2 or 3 inches in size. I love logic puzzles and party games. The critical thing about all my favorite activities is they always involve access to indoor plumbing and climate control, and usually comfortable chairs.
+
+###__What do you love about the Pavlovian Society?__
+I love that there is a dedicated meeting for learned behavior. I appreciate that the motivation for the science is to understand the behavior and learning processes that drive it, not to understand a molecule or a specific circuit. Those are important too, but sometimes you need the expertise of a bunch of behavioral scientists.
+
+![_Dr. Grissom (L) with her PhD advisor, Dr. Seema Bhatnagar (R). On being a woman in science, Dr. Grissom said, "There's a benefit of the doubt that people in the majority get, that doesn't get extended as easily to people of color, or to women, especially women of color. So a grant proposal, or a finding, gets just a little bit more pushback from a reviewer - not just the approach, but sometimes even the premise that a particular question is worth studying. That hurts success directly, chips away at grant scores and paper reviews. Not only that, but adding up that pushback, that doubt, from every person it radiates from even a little, over each project it happened on - that takes energy away that could ideally go to your next big idea, the next paper, the next great opportunity. The best thing you can do is not internalize the doubt. Know your worth." _](./photos/Grissom2.jpg)
+
+---
+
+Questions for May compiled by Miranda R. Schwabe
+
+<a href="https://twitter.com/glia_gal?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @glia_gal</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 #May, 2019: Dr. Kate Wassum
 
 ![_Dr. Wassum (front, second from left) with her lab at UCLA._](./photos/Wassum1.jpg)
