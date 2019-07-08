@@ -17,6 +17,49 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
+#July, 2019: Dr. Natalie Tronson
+
+![_Dr. Natalie Tronson in her office at the University of Michigan._](./photos/Tronson1.jpg)
+
+Dr. Natalie Tronson is an Assistant Professor of Psychology at the University of Michigan. Dr. Tronson completed her doctoral work with Dr. Jane Taylor at Yale University and her postdoctoral work with Dr. Jelena Radulovic at Northwestern University. In her lab, Dr. Tronson and her students examine the molecular mechanisms of memory formation and reconsolidation using Pavlovian fear conditioning. The Tronson lab is especially interested in how these processes are influenced by factors like stress and biological sex.
+
+<a href="https://twitter.com/TronsonLab?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TronsonLab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+###__What project are you currently most excited about in your lab?__
+All the projects! My biggest issue is wanting to do all the things, all the time. But, probably the neuroimmune modulation of memory project. This project has everything: Sex differences, long-lasting impact on memory, relationships with Alzheimer’s disease, multiple levels of analysis, and astrocytes!
+
+###__What advice would you give yourself as a graduate student?__ 
+Don’t feel the need to follow “the rules” of how an academic career is supposed to work. Do it your own way. It will either work out or it won’t, but you’ll be happier for following your own path along the way.
+
+###__If you weren’t a scientist, what would you be?__
+
+This is an existential question for me! I’ll always be a scientist, even if I don’t always work in academia or science. But outside of academia? I have no idea. I’ve never had a Plan B. I’ve never really had a Master Plan either - I’ve just followed what I loved and sought out opportunities as I’ve gone along.
+But in an alternate timeline where I did not study science at university, I would probably have continued to study music – composition more than performance. 
+  
+###__If you could go anywhere in the world and do anything for one day, where would you go and what would you do?__
+
+Just one day? Just one thing? Something involving spectacular nature views, water to swim/play in, warm weather, and my family. Alternatively: a day in Antarctica.
+
+###__What is one of your favorite memories as a child?__
+
+A bus trip with my family through the center of Australia to Uluru (Ayers Rock) when I was 10. You wouldn’t think that days and days and days on a bus through the desert where the only other kids were your own siblings would be so fun, but it was a great trip. 
+
+###__What do you love about the Pavlovian Society?__
+
+I love that it has a great cross-section of people that study memory across all levels of analysis, starting with theory and behavior, to circuits and systems, and molecular mechanisms. And all of whom come back to the importance of understanding behavior as a central tenet to how to study learning and memory.
+
+![_Dr. Tronson (second from left) with her running crew after a race. Dr. Tronson also enjoys spending time with her toddler, music, food (both cooking and eating), and travel._](./photos/Tronson2.jpg)
+
+---
+
+Questions for July compiled by Camila Demaestri
+
+<a href="https://twitter.com/DemaestriC?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @DemaestriC</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 #June, 2019: Dr. Nicola Grissom
 
 ![_Dr. Nicola Grissom showcasing her signature wit during a colloquium at Purdue University, presenting data on perseverative behaviors._](./photos/Grissom1.jpg)
