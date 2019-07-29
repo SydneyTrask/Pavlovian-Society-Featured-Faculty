@@ -17,6 +17,50 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
+#August, 2019: Dr. Rebecca Shansky
+
+![_Dr. Shansky (center) with her students at  Northeastern University._](./photos/Shansky1.jpg)
+
+Dr. Rebecca Shansky is an Associate Professor in the Department of Psychology at Northeastern University. Dr. Shansky earned her doctorate at Yale University under the advisement of Dr. Amy Arnsten and conducted her postdoctoral work at Mount Sinai with Dr. John Morrison. In her lab at Northeastern, Dr. Shansky and her trainees study how the nervous system changes in response to aversive events, identifying distinct behavioral and anatomical differences between male and female subjects. 
+
+<a href="https://twitter.com/ShanskyLab?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ShanskyLab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+###__What project are you currently most excited about in your lab?__
+
+Right now I’m most excited about our project with the most unknowns. It’s a collaboration with Bob Datta at Harvard Med School, who’s developed a super-sophisticated behavioral analysis tool using a 3D depth camera that you’d find in an X-box. We’re working with them to evaluate complex conditioned fear behaviors, which could help us develop predictive profiles of resilient vs. susceptible phenotypes in males and females. What I especially love about this project is that it’s completely an undergraduate endeavor – my student Sierra came to work with us having zero lab experience, and I basically said, “See if you can figure out how to do this” and she just did it! I’m constantly amazed at the creativity and resourcefulness my students have.
+
+###__Looking back at your career so far, what are you most proud of?__
+
+Our lab motto is “No shrugging” – meaning, if something seems wrong, don’t live with it; fix it. So it might sound hokey, but I’m most proud of the times that I refused to shrug. This includes successfully fighting a negative tenure decision—one of the most mentally and emotionally challenging 6 months of my life—and being a long-time vocal advocate for studying both sexes in neuroscience research. In both cases, I feel like I have genuinely helped move the needle on the way people think about the culture of academic science, both in and outside of the laboratory, and that’s pretty satisfying. 
+
+###__If you weren’t a scientist, what would you be?__
+
+I wouldn’t have known how to answer this question five years ago, but in 2015 my husband and I bought a dilapidated little house in East Boston and did a full gut renovation, just like on HGTV! We didn’t do the construction work ourselves, but I designed the whole house, and although there was a lot about the process that was super stressful, I really loved the creative aspect.  Picking out backsplash tile, wallpaper, floor stain, and seeing all those little decisions come together into beautiful spaces (that I now get to live in!) was just awesome.  I learned a ton and found that I may have a bit of an eye for this stuff. So if I had to start over and couldn’t choose science as a career, I would probably go to design school and help people make their homes pretty.  
+
+###__What is/are your favorite non-science related activity?__
+
+It’s summer, and so I am VERY into my vegetable garden. We’re super lucky to have a backyard right in the middle of the city, and we have raised beds with tomatoes, cucumbers, peppers, string beans, and herbs. Every morning before I leave for lab I pour myself a little iced coffee and go out and just look at all my plants in total awe that they were these tiny little things not even 2 months ago and now they’re gigantic and producing all this amazing fruit. On the weekends I work to keep the tomatoes suckers pinched and the cucumber vines going up—it’s a fun thing to focus on that not only keeps me from thinking about work all the time, but is also incredibly rewarding and delicious!
+
+###__What is your dream vacation?__
+
+Without question, I want to go to Japan for like a month and just eat. Traveling and eating are two of my favorite activities, so if my plan to be an interior decorator doesn’t work out, I suppose I could fall back on hosting a show where I just travel to amazing places and eat.  
+
+###__What do you love about the Pavlovian Society?__
+ 
+I’ve only been involved in Pavlovian Society for a couple of years so I admit that in a sense I feel like a bit of an impostor. The science is amazing, obviously. But what Pavlovian really gets right—and what is immediately clear to a newcomer—is its inclusivity. Even though there are some true legends involved, it doesn’t feel like one of those scientific societies that’s run by the “old guard.” There are visible leadership roles for trainees, and I think that’s a really fantastic model that other societies should emulate.  I also love the Women’s luncheon. It is so, so important to highlight the amazing accomplishments of women in our field, while also speaking plainly and openly about the challenges women in STEM continue to face. 
+
+![_Dr. Shansky (left) teaching her nephew (center) and niece (right) how to make mojitos._](./photos/Shansky2.jpg)
+
+---
+
+Questions for July compiled by Sydney Boutros
+
+<a href="https://twitter.com/SydWeberBoutros?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @SydWeberBoutros</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 #July, 2019: Dr. Natalie Tronson
 
 ![_Dr. Natalie Tronson in her office at the University of Michigan._](./photos/Tronson1.jpg)
