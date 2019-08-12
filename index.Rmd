@@ -17,6 +17,58 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
+#September, 2019: Dr. Sheena Josselyn
+
+![_Dr. Josselyn in her lab at the Hospital for Sick Children in Toronto._](./photos/Sheena1.jpg)
+
+Sheena Josselyn is an Associate Professor in the departments of Psychology and Physiology at the University of Toronto, as well as a Senior Scientist at the Hospital for Sick Children. She earned her PhD at the University of Toronto with Dr. Franco Vaccarino and conducted her postdoctoral training with Dr. Mike Davis at Yale and Dr. Alcino Silva at UCLA. Dr. Josselyn and her trainees study the cellular and moleculer mechanisms of memory storage and formation. Dr. Josselyn is the speaker for the 9th Annual Women in Learning Luncheon during the Pavlovian Society Meeting in Vancouver, BC this October. More details, registration, and donation information are available [here](https://www.womeninlearning.com).
+
+<a href="https://twitter.com/sjo09?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @sjo09</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+###__What project are you currently most excited about in your lab?__
+
+The big and somewhat grand problem we (and many other labs) are working on is trying to understand how the brain encodes, stores and uses information. We believe that this is a fundamental property of brain function. One could imagine that dysfunction of information processing could lie at the heart of a number of human disorders (from autism spectrum disorder to Alzheimer’s disease). Our memories make us who we are, and understanding how memories are formed and used, I believe is a hugely fascinating question. 
+
+###__If you could research something completely unrelated to your lab’s focus, what would it be?__ 
+
+I would like to do some pure modeling studies. All in silico.
+
+###__What is the biggest challenge you have faced in your career?__
+
+I found getting a faculty position quite challenging. Other than that, I find every day being a scientist a little challenging, but in a good way. 
+
+###__What advice would you give your graduate student self?__ 
+
+To enjoy the ride. That if you focus on the work, then things will eventually work out. My mother always told me (and I would tell my younger self) that things work out in the end. If things are not working out, then it means it is not yet the end.
+
+###__If you weren’t a scientist, what would you be?__
+
+Writer. I love to write. Or more accurately, I love to have written!
+
+###__What is/are your favorite non-science related activity?__
+
+I like to spend time with my family, hike and watch basketball. I also really enjoy baking. It’s like working at the bench and (most of the time) following a recipe, seeing how it turns out and then altering it!
+
+###__What is your favorite time of the year?__ 
+
+Summer - love the hot weather. I also like fall because it always feels like a fresh start.
+
+###__What is your favorite thing about Women in learning?__
+
+Hanging out with smart and funny women.
+
+![_Dr. Josselyn spending time with her daughter, which she says is the best way to relax after a stressful day. "Interacting with her is a wonderful way of keeping things in perspective." _](./photos/Sheena2.jpg)
+
+---
+
+Questions for September compiled by Hanna Yousuf
+
+<a href="https://twitter.com/yousuf_hanna?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @yousuf_hanna</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 #August, 2019: Dr. Rebecca Shansky
 
 ![_Dr. Shansky (center) with her students at  Northeastern University._](./photos/Shansky1.jpg)
