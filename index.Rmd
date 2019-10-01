@@ -17,6 +17,59 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
+#October, 2019: Dr. Catharine Rankin
+
+![_Dr. Rankin at the University of British Columbia. Of the many accomplishments in her prolific career, she says she is most proud of her students._](./photos/Rankin11.jpg)
+
+Dr. Catharine Rankin is a professor in the Department of Psychology and a member of the Centre for Brain Health at the University of British Columbia. She earned her Ph.D. in Biopsychology at The City University of New York and conducted her postdoctoral research with Dr. Thomas Carew at Yale University. Dr. Rankin’s lab was the first to show that _C. elegans_ are capable of learning and memory. He lab combines behavioral and genetic assays to study the genetic basis of learning and memory and how experience alters the nervous system in _C. elegans_. Dr. Rankin is the current president of the Pavlovian Society and the host of our 2019 meeting from October 3 - 5 in Vancouver, BC.  
+
+<a href="https://twitter.com/wormslearn?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @wormslearn</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+###__What project are you currently most excited about in your lab?__
+
+We are studying the role of genes associated with Autism Spectrum Disorder (ASD) in habituation of mechanosensory stimuli in _C. elegans_. These studies go two directions- we hope to contribute to understanding ASD while also deepening our understanding of mechanisms of habituation. This is exciting because it allows my basic science investigations to contribute to understanding a human disease. 
+
+
+###__Are there any new techniques in the learning and memory field that you are excited about?__
+
+In _C. elegans_ we have begun to use a genetic technique called Degron Technology that allows us to degrade a specific protein in specific neurons or at specific times in development and this is allowing us to understand what neurons a gene of interest is working in, and when in development it is necessary. 
+
+###__What was your first research experience?__
+
+I did my undergraduate degree in Psychology at the University of Guelph in Ontario, Canada.  For my Honors project I did an event-recorder behavior study of the activity of seals in captivity trying to determine what they spent their days doing- swimming, sleeping or interacting.  This was to help design new housing facility for them.  It was in an unheated hut in an Ontario winter and I nearly froze to death!
+
+###__What has been your biggest career challenge and how did you get through it?__
+
+For my postdoc I worked on the development of learning in _Aplysia_ and when I moved to UBC I tried to set up an _Aplysia_ research program and had one disaster after another making it impossible to set up the research (a supplier asked to be paid in advance and then skipped town with 10% of my start-up funds, the mariculture facility that grew baby _Aplysia_ shut down for at least a year, etc.).  It would have been easy to give up. However, I met a researcher who studied _C. elegans_ (the same size as baby _Aplysia_) and I borrowed some to test different brands of dissecting scopes. When my first graduate student and I were testing the scopes we wondered whether they could learn.  We investigated and found no one had tested them and so we got to work and within a few months we showed that they could learn and had data for habituation, dishabituation and long-term memory for habituation. I never looked back! I got through it by not focusing on the negative things that happened and by being open to the opportunities that opened up in front of me.
+
+###__If you could research something completely different, what would it be?__
+
+I love scuba diving. I would love to do studies of marine animals, in the field, in the tropics!  
+
+###__What is your ideal weekend out of lab?__
+
+Relaxing with my husband and going for walks on the seawall in Vancouver. 
+
+###__What’s it like being the president of the Pavlovian Society?__
+
+It is great. It was fun putting together the program for the conference, Jeff Wilson has been a great source of knowledge and support for the things I need to do, and the past presidents of the society stay connected and we have had email discussions about several society-based issues.  It is a real honor to be a member of that team! 
+
+###__What do you love about the Pavlovian Society?__
+
+I love how passionate the members of the society are about their research! It a composed of so many smart and interesting people who are open and welcoming to new ideas and new researchers!
+
+![_Dr. Rankin enjoying the outdoors. On cultivating work-life balance in her lab "I try to be a role model for doing non-science activities and I reinforce my students for maintaining other activities in their lives. I value what they do, not how many hours they put in doing it."_](./photos/Rankin2.jpg)
+
+---
+
+Questions for October compiled by Alyssa DiLeo
+
+<a href="https://twitter.com/oldladyscience?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @oldladyscience</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 #September, 2019: Dr. Sheena Josselyn
 
 ![_Dr. Josselyn in her lab at the Hospital for Sick Children in Toronto._](./photos/Sheena1.jpg)
