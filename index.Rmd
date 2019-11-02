@@ -17,6 +17,58 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
+#November, 2019: Dr. Nadia Chaudhri
+
+![_Dr. Chaudhri with her lab members at Concordia University._](./photos/Nadia1.jpg)
+
+Dr. Nadia Chaudhri is an Associate Professor of Psychology at Concordia University and Director of the Center for Studies in Behavioral Neurobiology. She completed her PhD at the University of Pittsburgh and conducted her postdoctoral training at UCSF. In her lab, Dr. Chaudhri and her trainees study the neurobiological mechanisms of addictive behaviors using appetitive conditioning paradigms (both Pavlovian and instrumental) and neuroscientific techniques like neuropharmacology, in-vivo optogenetics, chemogenetics, in-vitro electrophysiology, and immunohistochemistry. They are especially interested in how cues become paired with reinforcing stimuli in a way that promotes relapse following extinction.
+
+<a href="https://twitter.com/ChaudhriLab?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ChaudhriLab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+###__What project are you currently most excited about in your lab?__
+
+It’s impossible to pick a favourite, so I’ll tell you about 2. My graduate students (Alexa Brown and Franz Villaruel) are studying brain regions involved in appetitive extinction. Experiments in this project that branched away from standard extinction paradigms have produced exciting results. Another graduate student (Mandy LeCocq) adapted the reinstatement paradigm for use with alcohol, and her project is generating heaps of interesting data. 
+
+###__What triggered your passion for studying learning and memory?__
+
+I’ve always loved biology, and have a clear memory from high school of the first time I saw cell division through a microscope. I wasn’t introduced to the brain or Psychology until college, and my fascination with biology transmuted into a desire to understand the neural basis of behaviour, particularly maladaptive behaviour like excessive drug use. I draw on the rigorous behavioural designs in learning and memory research to inform my work on extinction learning and substance use disorders. 
+
+###__If you could research something completely different, what would it be?__
+
+I’d study plant biology. I’m crazy about plants, fungi and growing my own food.  
+
+###__What are you most excited about in the learning and memory field?__
+
+My background and training is in addiction research, so I’m a relative newcomer to the learning and memory field. It’s exciting to see modern neuroscience approaches being applied to theoretically-driven learning and memory studies. Recent work on sex- and individual-differences is also keeping learning and memory research at the cutting edge. 
+
+###__What is/are your favorite non-science related activities?__
+
+I’ve been doing yoga for a few years, and I recently started a ‘Strong-by-Zumba’ class that I love. It’s like 1980’s aerobics, but edgier and without leotards. I also love feeding people and often throw spontaneous dinner parties. 
+
+###__What are you most proud of in your career?__
+
+I grew up in a low-income family in Pakistan and now I’m an Associate Professor of Psychology at a Canadian university. Describing this journey is ‘beyond the scope of this article,’ but I’m incredibly proud just to be where I am right now. I love being a scientist, creating opportunity for my lab members, and being in a position where I can advocate for the next generation of scientists. 
+
+###__Who influenced you the most throughout your career?__
+
+As a graduate student I was co-supervised by Alan Sved and Anthony Caggiula at the University of Pittsburgh. Alan is whip-smart and sharp as a tack, and Tony is a creative genius. Reconciling the very different feedback that they both gave me on papers did wonders for my scientific writing. I also had an amazing postdoctoral supervisor, Patricia Janak. Tricia gave me independence, resources, and sponsorship, all of which set the stage for me to flourish. Tricia is an incredibly successful, brilliant researcher, and a role model for me and many other scientists.
+
+###__What do you love about the Pavlovian Society?__
+
+Everything! The rigorous science, the people, the WIL lunch, drinks at the hotel bar. It’s a fantastic, focused meeting that feels welcoming and supportive of junior scientists. 
+
+![_Dr. Chaudhri with Alex Chisholm. When asked for advice for graduate students, Dr. Chaudhri said, "Graduate school is precious time. Read lots of papers, start to build networks with your peers and scientists who are outside your institution, and take advantage of whatever opportunities you might have to train in different labs, travel to conferences, and talk about science. "_](./photos/Nadia2.jpg)
+
+---
+
+Questions for November compiled by Alex Chisholm
+
+<a href="https://twitter.com/iamalexchisholm?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @iamalexchisholm</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 #October, 2019: Dr. Catharine Rankin
 
 ![_Dr. Rankin at the University of British Columbia. Of the many accomplishments in her prolific career, she says she is most proud of her students._](./photos/Rankin11.jpg)
