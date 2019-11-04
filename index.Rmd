@@ -21,9 +21,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![_Dr. Chaudhri with her lab members at Concordia University._](./photos/Nadia1.jpg)
 
-Dr. Nadia Chaudhri is an Associate Professor of Psychology at Concordia University and Director of the Center for Studies in Behavioral Neurobiology. She completed her PhD at the University of Pittsburgh and conducted her postdoctoral training at UCSF. In her lab, Dr. Chaudhri and her trainees study the neurobiological mechanisms of addictive behaviors using appetitive conditioning paradigms (both Pavlovian and instrumental) and neuroscientific techniques like neuropharmacology, in-vivo optogenetics, chemogenetics, in-vitro electrophysiology, and immunohistochemistry. They are especially interested in how cues become paired with reinforcing stimuli in a way that promotes relapse following extinction.
+Dr. Nadia Chaudhri is an Associate Professor of Psychology at Concordia University and Director of the Center for Studies in Behavioral Neurobiology. She completed her PhD at the University of Pittsburgh and conducted her postdoctoral training at the University of California, San Francisco. In her lab, Dr. Chaudhri and her trainees study the neurobiological mechanisms of addictive behaviors using appetitive conditioning paradigms (both Pavlovian and instrumental) and neuroscientific techniques like neuropharmacology, in-vivo optogenetics, chemogenetics, in-vitro electrophysiology, and immunohistochemistry. They are especially interested in how cues become paired with reinforcing stimuli in a way that promotes relapse following extinction.
 
-<a href="https://twitter.com/ChaudhriLab?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ChaudhriLab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/DrNadiaChaudhri?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @DrNadiaChaudhri</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
