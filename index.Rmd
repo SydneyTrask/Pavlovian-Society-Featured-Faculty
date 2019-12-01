@@ -17,6 +17,49 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
+#December, 2019: Dr. Janine Kwapis
+
+![_Dr. Kwapis (top center) with her lab members at Concordia University. On running her own lab, Dr. Kwapis said, "There’s nothing better than walking into lab in the middle of the day and seeing lab members hard at work on their projects without needing my direction. Having the freedom to answer the questions that I think are most interesting is the coolest thing in the world."_](./photos/Kwapis1.jpeg)
+
+Dr. Janine Kwapis is an Assistant Professor of Biology at Pennsylvania State University. She earned her PhD at the University of Wisconsin-Milwaukee and conducted her postdoctoral training at the University of California, Irvine. In her lab at Penn State, Dr. Kwapis and her students study the molecular and epigenetic mechanisms that support long-term memory formation, storage, and updating and how these processes change across the lifespan.
+
+<a href="https://twitter.com/J9Kwapis?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @J9Kwapis</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+###__What project are you currently most excited about in your lab?__
+
+There are two projects that I’m super excited about right now. First, we are trying to understand the functional role of circadian genes in modulating memory formation across the day/night cycle. We have found that at least one circadian gene, Period1 (Per1) plays an important role in memory formation and our most recent data suggest that Per1 may function differently during the day versus at night, changing the likelihood of memory formation. We’re also investigating how memories are modified in response to new information. As a side project in my postdoc lab, I developed a task (called OUL – Objects in Updated Locations) that can assess both an original memory and updated information in a single test session. We’re using OUL now to figure out how memory updating is different from initial memory formation.
+
+###__If you could give one piece of advice to yourself as a trainee, what would it be?__
+
+Learn when to cut off a project or technique that’s not working and switch to something else. It took me a while to realize that an important part of science is learning when to cut your losses and instead try a different approach or ask a new question. It’s something you learn with time, but sometimes when things aren’t working, it makes you concentrate on what is working and that’s often where you find the interesting, unexpected discoveries!
+
+###__What is/are your favorite non-science related activities?__
+I love to read, play volleyball (even though it has been a while!), and spend time with my family.
+
+###__How do you create a healthy work/life balance for yourself and your lab members?__
+
+Building the right lab environment has been super important to me since we opened our doors in January. I was fortunate to start my lab with a really fantastic technician (Kasuni Bodinayake – keep an eye on her -- she’s applying to PhD programs right now!) who has been instrumental in setting a positive tone for our new lab. Everyone in lab works really hard and I’m proud of the good, solid science we’re doing, but I’m also proud to see that everyone is thriving outside of lab, too. 
+
+###__What advice would you give to a graduate student in the field of learning and memory who is looking to become an independent investigator in the future?__
+
+Work on your communication skills, both speaking and writing. As an incoming graduate student I had no idea how much of this job involves writing and speaking. Being able to communicate your science is fundamental and can be the difference in whether you get a job offer or get a grant. These are things that you learn with time, so practice early and often.
+
+###__What do you love about the Pavlovian Society?__
+
+I love that everyone in the Pavlovian Society appreciates how important and nuanced behavior is. It’s also a really great group of people and I love getting to see some of my oldest friends at the yearly meeting. I’m also really proud of [Women in Learning (WIL)](https://www.womeninlearning.com) and the work we’re doing.
+
+![_Dr. Kwapis with her daughter, Colette (Coco). On the most challenging part of her career so far, Dr. Kwapis said, "I did all of my interviews while I was still on maternity leave, which was really tough. I definitely couldn’t have done it without the unwavering support from my husband, Matt, who traveled to most of the interviews with me so he could watch Colette during the day. My postdoctoral mentor (Marcelo Wood) was also incredibly supportive and encouraging through the whole process."_](./photos/Kwapis2.jpeg)
+
+---
+
+Questions for December compiled by Hayley Fisher
+
+<a href="https://twitter.com/hayfish24?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @hayfish24</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 #November, 2019: Dr. Nadia Chaudhri
 
 ![_Dr. Chaudhri with her lab members at Concordia University._](./photos/Nadia1.jpg)
