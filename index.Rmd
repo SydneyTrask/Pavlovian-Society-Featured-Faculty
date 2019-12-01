@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 #December, 2019: Dr. Janine Kwapis
 
-![_Dr. Kwapis (top center) with her lab members at Concordia University. On running her own lab, Dr. Kwapis said, "There’s nothing better than walking into lab in the middle of the day and seeing lab members hard at work on their projects without needing my direction. Having the freedom to answer the questions that I think are most interesting is the coolest thing in the world."_](./photos/Kwapis1.jpeg)
+![_Dr. Kwapis (top center) with her lab members at Pennsylvania State University. On running her own lab, Dr. Kwapis said, "There’s nothing better than walking into lab in the middle of the day and seeing lab members hard at work on their projects without needing my direction. Having the freedom to answer the questions that I think are most interesting is the coolest thing in the world."_](./photos/Kwapis1.jpeg)
 
 Dr. Janine Kwapis is an Assistant Professor of Biology at Pennsylvania State University. She earned her PhD at the University of Wisconsin-Milwaukee and conducted her postdoctoral training at the University of California, Irvine. In her lab at Penn State, Dr. Kwapis and her students study the molecular and epigenetic mechanisms that support long-term memory formation, storage, and updating and how these processes change across the lifespan.
 
