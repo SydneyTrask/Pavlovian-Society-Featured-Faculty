@@ -17,6 +17,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
+#January, 2020: Holiday Break
+
+![_Hope you all enjoyed a restful holiday._](./photos/PavlovSanta.jpg)
+
+---
+
 #December, 2019: Dr. Janine Kwapis
 
 ![_Dr. Kwapis (top center) with her lab members at Pennsylvania State University. On running her own lab, Dr. Kwapis said, "There’s nothing better than walking into lab in the middle of the day and seeing lab members hard at work on their projects without needing my direction. Having the freedom to answer the questions that I think are most interesting is the coolest thing in the world."_](./photos/Kwapis1.jpeg)
