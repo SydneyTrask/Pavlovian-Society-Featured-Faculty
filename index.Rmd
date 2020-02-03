@@ -17,6 +17,44 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
+#February, 2020: Dr. David Knight
+
+![_Dr. Knight collecting data with Heather Dark and Juliann Purcell, graduate students at the University of Alabama at Birmingham._](./photos/Knight1.jpg)
+
+Dr. David Knight is a Professor of Psychology at the University of Alabama at Birmingham. He conducted his doctoral work with Dr. Fred Helmstetter at the University of Wisconsin-Milwaukee and postdoctoral work at the National Institute of Mental Health with Dr. Peter Bandettini. In his lab at UAB, Dr. Knight and his students use fMRI to investigate the neural substrate of human learning, memory, and emotion. They are especially interesting in studying the neural processes that contribute to mood and anxiety disorders.
+
+###__What project are you currently most excited about in your lab?__
+
+We have a new study focused on Posttraumatic Stress Disorder (PTSD) and fear conditioning. We are specifically interested in the impact that being able to predict and control a threat (i.e. an aversive unconditioned stimulus; UCS) has on behavior and the neural function that supports learning. Nate Harnett’s work from the lab has previously demonstrated that trauma-exposed participants show fear learning deficits. Kimberly Wood’s work in the lab has shown that the hippocampal and ventromedial prefrontal cortex activity of healthy volunteers varies with the predictability and controllability of the UCS. Our current study, led by Heather Dark and Juliann Purcell, will determine whether the ability to predict and control the UCS alters fear learning in unique ways for those with PTSD compared to those without PTSD and will shed new light on the neural function that underlies these learning-related processes.
+
+###__If you could give one piece of advice to yourself as a trainee, what would it be?__
+
+Schedule protected time for writing every week. If I don’t schedule time to write, it becomes very easy to put the writing off, week after week, as I focus on other activities (e.g., collecting/analyzing data and administrative responsibilities). I’ve become much more efficient and productive (and less stressed) since I’ve started scheduling protected time to work on papers and grants.
+
+###__What was your first research experience?__
+
+I earned my undergraduate degree in Psychology at Truman State University, where I joined Fred Shaffer’s psychophysiology and biofeedback lab. We completed a number of studies investigating the impact cognitive and behavioral functions have on diaphragmatic breathing and psychophysiological responses. 
+
+###__What triggered your interest in studying learning and memory?__
+
+My interest in learning and memory was triggered by my sister, who is 10 years older, on her trips home from college. She was learning about behaviorism in a psychology class and shared what she learned on her visits home. She even put me on a reinforcement schedule to modify some of my less appealing habits, which I will begrudgingly admit worked. That was my introduction to psychology and was the beginning of my interest in learning and memory.
+
+###__What are your favorite non-science related activities?__
+
+Spending time with my daughter. She is 17 years old, super smart, and lots of fun to hang out with. I also like taking weekend naps…then texting friends to brag about how nice my naps were. Finally, I have been running regularly for the past few years. I’m trying to add years to my life and get into better shape to enjoy those years. I’m running my first half marathon in February! After that, I’ll think about training for a full marathon.
+
+###__What is your favorite part of running a lab?__
+
+Mentoring trainees is my favorite part of running a lab. The most rewarding part of my job is helping students work through the challenges they encounter, whether they are related to the lab, classroom, or another part of their life.
+
+###__What is your proudest professional achievement?__
+
+I would say that getting my first “real” job at UAB (University of Alabama at Birmingham) was the professional achievement of which I am most proud. Getting a faculty position was the culmination of all the other accomplishments along the way. Each of my other achievements (e.g., completing college, graduate school, and postdoc) were really just intermediate steps along the path to getting a faculty position.
+
+![_Dr. Knight and his daughter, Addie, at Chicago’s Millennium Bean during the annual meeting of the Society for Neuroscience in 2019._](./photos/Knight2.jpg)
+
+---
+
 #January, 2020: Holiday Break
 
 ![_Hope you all enjoyed a restful holiday._](./photos/PavlovSanta.jpg)
