@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![_Dr. Knight collecting data with Heather Dark and Juliann Purcell, graduate students at the University of Alabama at Birmingham._](./photos/Knight1.jpg)
 
-Dr. David Knight is an Associate Professor of Psychology at the University of Alabama at Birmingham. He conducted his doctoral work with Dr. Fred Helmstetter at the University of Wisconsin-Milwaukee and postdoctoral work at the National Institute of Mental Health with Dr. Peter Bandettini. In his lab at UAB, Dr. Knight and his students use fMRI to investigate the neural substrate of human learning, memory, and emotion. They are especially interesting in studying the neural processes that contribute to mood and anxiety disorders.
+Dr. David Knight is a Professor of Psychology at the University of Alabama at Birmingham. He conducted his doctoral work with Dr. Fred Helmstetter at the University of Wisconsin-Milwaukee and postdoctoral work at the National Institute of Mental Health with Dr. Peter Bandettini. In his lab at UAB, Dr. Knight and his students use fMRI to investigate the neural substrate of human learning, memory, and emotion. They are especially interesting in studying the neural processes that contribute to mood and anxiety disorders.
 
 ###__What project are you currently most excited about in your lab?__
 
@@ -56,6 +56,8 @@ I would say that getting my first “real” job at UAB (University of Alabama a
 ---
 
 Questions for December compiled by Eliza Greiner
+
+<a href="https://twitter.com/ElizaMackenzieG?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ElizaMackenzieG</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
