@@ -17,6 +17,52 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
+#March, 2020: Dr. Donna Calu
+
+![_Dr. Calu (front, right) with her lab at The University of Maryland School of Medicine. Of her lab, Dr. Calu says, "I am really invigorated by the energy of postdocs and grad students, developing their own projects that take us in totally new directions."_](./photos/Calu1.jpg)
+
+Dr. Donna Calu is an Assistant Professor in the Department of Anatomy and Neurobiology at the University of Maryland School of Medicine in Baltimore, Maryland. She conducted her graduate work at the University of Maryland School of Medicine and postdoctoral work at the National Institute of Drug Abuse. [In her lab](https:/www.calulab.com), Dr. Calu and her students study the neural mechanisms that underlie individual differences in vulnerability to drug addiction as well as how these brain systems are changed by voluntary drug-taking behavior. Dr. Calu was recently awarded the highly-prestigious Presidential Early Career Award for Scientists and Engineers (PECASE).
+
+<a href="https://twitter.com/CaluLab_Bmore?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @CaluLab_Bmore</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+###__What project are you currently most excited about in your lab?__
+
+Recently we’ve had several surprising outcomes from our mainstream projects examining the brain systems mediating individual differences in Pavlovian devaluation sensitivity, which continue to be very exciting for me. A few examples include probing the role of VTA endocannabinoids in gating DA differences in sign- and goal-trackers, the role of BNST in driving incubation of fentanyl craving, and using behavioral economic approaches to investigate how 5HT2A agonists shift demand for opioid drugs of abuse. 
+
+###__Looking back at your career so far, what are you most proud of?__
+
+Feeling simultaneously proud of the mentoring/training environments I came from and the one I have managed to create. This realization came recently after I experienced a sudden personal loss that kept me away from the lab for several months. While I was away, I had falsely anticipated that my absence would have a substantial negative impact on lab productivity, culture and experimental outcomes. Upon my return, I was humbled and relieved to find out how wrong I was. First, the data. The incredible data that came out of that time in the lab was inspiring. It was clear that trainees leaned on one another in order to navigate the day to day challenges of running their studies. Second, the strengthened bonds between team members were evidence that we all made it through something big, and we would all be stronger for it. I am forever grateful for my science family, past and present, that supported us through the challenging time. Finally, I was super proud of how each trainee demonstrated deeper and more independent thinking about their projects. This has taken our work in new directions and showed me that I could, and should, let go of the intellectual micromanagement. Though admittedly I see how this is creeping back and it’s important to keep it in check, so thanks for asking! 
+
+###__If you weren’t a scientist, what would you be?__
+
+I don’t know why a whale-watching boat captain comes to mind, but it does. Is that too far out? _[Editor's note: It is not too far out!]_ I have never been whale watching so that’s probably something I should try first. And captaining a small vessel is probably a pre-req, I should maybe get on that. Once the skillsets are acquired I think it would be a good mix of challenging, peaceful and awe-inspiring. 
+
+###__What’s your favorite pie?__
+
+Does chicken pot pie count? _[Editor's note: It definitely does count!]_ If not, I will politely accept a slice of any traditionally sweet pie, ideally served with a 2:1 ice cream to pie ratio. Yes, whipped cream too please. 
+
+###__What is your ideal Saturday out of the lab?__
+
+Short answer: spending time with my awesome family. Longer answer: Starting the day with peaceful coffee consumption, followed by kids enjoying themselves (eating continuously enough to maintain adequate blood sugar levels) while husband and I watch or partake in fun activity with them. Depending on time of year these activities may include biking and kite flying, playing/gardening in the yard, fishing and chilling at the bayside park, kid sports/sideline chill, extended family time, camping and seeing bluegrass inspired music, baking, board games and PG movies, skiing/snowboarding on occasion.
+
+###__What’s the best book you’ve ever read?__
+
+Tom Robbins’ Skinny Legs and All. Painted stick and Spoon are two of my favorite characters of all time, and this was my intro to Tom Robbins, who I anticipate will always be my favorite author. 
+
+###__What advice would you give yourself as a trainee?__
+
+Leave what you perceive as the expectations of others at the door. The lab/office door and your own front door. Schedule time to write. Schedule time to disconnect from work. You have a ticket to get into the park, but you don’t have to ride the roller coaster. The ups and downs of life in science are an inevitable part of the process. Cherish the victories large and small, and completely separate emotion from experimental failure, criticism and professional rejection. These are more like daily mantras than advice I’d give myself as a trainee, but hey, it’s an ongoing process. 
+
+###__What do you love about the Pavlovian Society?__
+
+I appreciate that the Pavlovian Society is made up of so many like-minded people that care about the subtlety and sensitivity of behavior. I love that behavior takes center stage, with neuroscience integrated, and behavior constantly revisited. I am honored to be featured here and motivated to become more involved. 
+
+![_Dr. Calu with her husband, son (5), and daughter (7). Ideal days for them end with a delicious dinner and daily yoga practice._](./photos/Calu2.jpg)
+
+---
+
 #February, 2020: Dr. David Knight
 
 ![_Dr. Knight collecting data with Heather Dark and Juliann Purcell, graduate students at the University of Alabama at Birmingham._](./photos/Knight1.jpg)
