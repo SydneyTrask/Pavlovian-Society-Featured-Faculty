@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![_Dr. Calu (front, right) with her lab at The University of Maryland School of Medicine. Of her lab, Dr. Calu says, "I am really invigorated by the energy of postdocs and grad students, developing their own projects that take us in totally new directions."_](./photos/Calu1.jpg)
 
-Dr. Donna Calu is an Assistant Professor in the Department of Anatomy and Neurobiology at the University of Maryland School of Medicine in Baltimore, Maryland. She conducted her graduate work at the University of Maryland School of Medicine and postdoctoral work at the National Institute of Drug Abuse. [In her lab](https:/www.calulab.com), Dr. Calu and her students study the neural mechanisms that underlie individual differences in vulnerability to drug addiction as well as how these brain systems are changed by voluntary drug-taking behavior. Dr. Calu was recently awarded the highly-prestigious Presidential Early Career Award for Scientists and Engineers (PECASE).
+Dr. Donna Calu is an Assistant Professor in the Department of Anatomy and Neurobiology at the University of Maryland School of Medicine in Baltimore, Maryland. She conducted her graduate work at the University of Maryland School of Medicine and postdoctoral work at the National Institute of Drug Abuse. [In her lab](https://www.calulab.com), Dr. Calu and her students study the neural mechanisms that underlie individual differences in vulnerability to drug addiction as well as how these brain systems are changed by voluntary drug-taking behavior. Dr. Calu was recently awarded the highly-prestigious Presidential Early Career Award for Scientists and Engineers (PECASE).
 
 <a href="https://twitter.com/CaluLab_Bmore?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @CaluLab_Bmore</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -29,7 +29,7 @@ Dr. Donna Calu is an Assistant Professor in the Department of Anatomy and Neurob
 
 ###__What project are you currently most excited about in your lab?__
 
-Recently we’ve had several surprising outcomes from our mainstream projects examining the brain systems mediating individual differences in Pavlovian devaluation sensitivity, which continue to be very exciting for me. A few examples include probing the role of VTA endocannabinoids in gating DA differences in sign- and goal-trackers, the role of BNST in driving incubation of fentanyl craving, and using behavioral economic approaches to investigate how 5HT2A agonists shift demand for opioid drugs of abuse. 
+Recently we’ve had several surprising outcomes from our mainstream projects examining the amygdala circuits mediating individual differences in Pavlovian devaluation sensitivity, which continue to be very exciting for me. Several students and postdocs have developed projects taking us in new directions including probing the role of VTA endocannabinoids in gating DA differences in sign- and goal-trackers, the role of BNST in driving incubation of fentanyl craving, and using behavioral economic approaches to investigate how 5HT2A agonists shift demand for opioid drugs of abuse. 
 
 ###__Looking back at your career so far, what are you most proud of?__
 
