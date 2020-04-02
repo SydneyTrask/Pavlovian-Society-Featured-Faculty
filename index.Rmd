@@ -17,6 +17,46 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
+#April, 2020: Dr. Michael Saddoris
+
+![_Dr. Saddoris (back row, second from right) with his lab at The University of Colorado Boulder._](./photos/Saddoris1.jpg)
+
+Dr. Saddoris is an Assistant Professor of Behavioral Neuroscience at the University of Colorado Boulder. Dr. Saddoris earned his PhD with Drs. Michela Gallagher and Peter Holland at Johns Hopkins University and completed his postdoctoral work with Dr. Regina Carelli at the University of North Carolina. [In his lab](https://www.saddorislab.org), Dr. Saddoris and his team study the neural mechanisms that underlie decision making in situations that involve risk-reward conflicts, as well as how both the brain and behavior change following exposure to drugs of abuse. 
+
+###__What project are you currently most excited about in your lab?__
+
+We are really excited about some data that has been piling up looking into how animals resolve risk-reward conflicts. One of the most fun parts of this has been to come up with ways to solve some of the confounds in the design of decision making tasks that sometimes we feel we have to use in order to get the rats to give us reliable data. But, not surprisingly, the rats are highly adaptive and creative in solving more continuously-updating tasks and using that information appropriately – just like they would in a more naturalistic setting. With that perspective, we’ve been using these newer models of decision making where our subjects can “wager” bets as they choose and we can model neural activity in these processes to see how the brain encodes this kind of information, and of course what happens when they win or lose.
+
+Beyond the specific experiments in my lab, though, I’ve been encouraged to see the field moving in a direction that is embracing the fuller range of animal behavior in the last few years. For as long as I’ve been a researcher, the emphasis (including my own!) has often been on designing tasks that fit the researchers’ needs such as discrete stimuli and reliable repeatable effects, whether or not those effects are actually any good at modeling anything with translatable value. But recently, there’s been a growing appreciation of all the complexity we need to think about when translating our animal models into human public health situations. For example, in the drug addiction world, there’s been a reckoning about what – if anything – our self-administration models are actually modeling. The renewed focus on the variety of access schedules, concurrent access with competing outcomes, persistent drug taking in the face of aversive consequences – all of these are giving the field some real renewed enthusiasm in trying to understand how we think about addiction and the brain, and thus how we think about the value of our research models. I think that a time in which we have unprecedented access to the most sophisticated molecular tools, there’s this parallel drive to really think about the importance and validity of our behavioral approaches. In the end, sophisticated tools don’t amount to much translational value to human health if we aren’t getting the basic behavioral models correct. So all of that renewed appreciation of behavioral approaches, including a range of great work from researchers and support from NIH itself, is also driving my excitement in the lab right now. 
+
+###__What is the best part about being a PI?__
+
+I guess it’d have to be the sort of active ferment of ideas being driven by all the minds in the group. As I’ve gotten more experience running a lab, “letting go” has been part of my mentoring strategy, because honestly, the individual talents and passions of each of my amazing trainees has been something you can’t really plan for other than in a very general stochastic sense. Everyone brings with them these unique set of experiences, both from their previous labs and from the world generally, that guides what lights a spark in them and gets them exciting about being in the lab. Over time, I’ve been better able to learn how to create spaces for the trainees to push their ideas and to fold those into the ongoing lab goals in a more organic way than I was able to do when I was just starting my lab. As such, we have really amazing projects going on that have been driven by ideas from postdocs, grad students, and even some exceptionally talented undergrads that weren’t even on my radar as of a couple years ago. Running the lab you have a better appreciation of how there’s a satisfying way all the organic messy pieces often click together. That ability to take a moment and look back at that path, and really appreciate the collaborative aspect of the whole process with such a passionate group of people has been really rewarding. 
+
+###__If you weren’t a scientist, what would you be?__
+
+As a junior faculty, you kind of always have this in the back of your mind, I suppose. I don’t have a huge backlog of repressed talents to fall back on, but being in this job for a while now, I’ve come to really appreciate how much value comes from the totality of our jobs as scientists. Mostly what I discover is that you could theoretically fill your days with non-research-related activities that could have a huge impact on people’s lives in an immediate way, and sometimes it’s hard to step away from that because you know you absolutely do not have the time and resources to keep that going. Maybe if I couldn’t be a scientist, those would be a great way to move these projects forward.  
+
+###__What do you have for your birthday dinner?__
+
+I really like to cook, so I usually try to come up with some multi-day marathon kind of thing where there are steps involving yeasts, smoke, and getting up before sunrise. The challenge is pretty much the point. 
+
+###__If you could go anywhere in the world and do anything for one day, where would you go and what would you do?__
+
+I suppose my answer would be bikepacking though bike-friendly parts of the world, and eating liberally of local foods along the way. I’ve never biked through Europe, but I watch a lot of cycling and like to imagine what it’d be like to trace the routes of the Classics. On a typical day here, unless there’s ice on the ground, you can usually find me on my bike year round, and I find that it’s the best way to see the world in general. Living in Boulder, there are a lot of cyclists here, but they all seem to enjoy pointing themselves straight uphill and summiting mountains. And you know, hats off to them. But as a native Iowan, my tastes are still firmly trend towards the long rolling hills variety, hitting towns every 20mi or so to stop for some local delicacy.
+
+###__What advice would you give yourself as a trainee?__
+
+In a very literal sense: Take a damn programming class and master that skill. So many attempts to just sit down and master programming ends up getting pushed to tomorrow; it feels like there’s always something more pressing. Trainee-me should give PI-me a swift kick in the shins every time he sees me even opening Excel.
+
+###__What do you love about the Pavlovian Society?__
+
+I was raised by behavior-driven mentors, and they really drilled into me how to approach critical problems in neuroscience through a behavior lens. Animals evolved to solve problems in their environment, and so it follows that if you want to know how the brain works, it’s essential to know what it’s for and how it’s used. The fashionability of behavior ebbs and flows in the behavioral neuroscience, but through it all, Pavlovian Society provide a home for people who work on these problems in earnest and make progress on these important issues. The community has been really great in this regard, providing connections across labs and training opportunities for younger scientists to developing this thinking and skills. I mean, between profiles like this and Jeff’s regular updating on Society jobs and news, it’s really a special community, and proud to be part of it!
+
+![_Dr. Saddoris with his family. While he says the kids keep them busy, he and his wife still love to cycle and took a few days while in Iowa visiting family to do segements of the RAGBRAI route, week-long bike ride across Iowa looping through small towns that pull out all the stops to showcase their rhubarb pie, arts, and home-churned ice cream. _](./photos/Saddoris2.jpg)
+
+---
+
 #March, 2020: Dr. Donna Calu
 
 ![_Dr. Calu (front, right) with her lab at The University of Maryland School of Medicine. Of her lab, Dr. Calu says, "I am really invigorated by the energy of postdocs and grad students, developing their own projects that take us in totally new directions."_](./photos/Calu1.jpg)
