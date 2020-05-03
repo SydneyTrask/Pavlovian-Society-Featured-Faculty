@@ -17,6 +17,54 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
+#May, 2020: Dr. Debra Bangasser
+
+![_Dr. Bangasser (front row, second from right) with his lab at Temple University. On advice she'd have given herself as a trainee, she says, "I wish I could have told myself to focus on what I can control, acknowledge that there is a lot of luck but hard work eventually pays off, and remember that there are many paths to a rewarding career."_](./photos/Debbie1.jpg)
+
+Dr. Debra Bangasser is an Associate Professor of Psychology and Neuroscience and Director of the program in Neuroscience: Systems, Behavior, and Plasticity at Temple University. She earned her PhD with Dr. Tracey Shors at Rutgers University and conducted postdoctoral training with Dr. Rita Valentino at The Children’s Hospital of Philadelphia. [In her lab at Temple](https://sites.temple.edu/bangasserlab/), Dr. Bangasser and her lab members study how stress interacts with biological sex to produce robust sex differences in psychiatric disease.
+
+<a href="https://twitter.com/Bangasser_Lab?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Bangasser_Lab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+###__What project are you currently most excited about in your lab?__
+
+I have been studying sex differences in the stress neuropeptide, corticotropin releasing factor (CRF), for years. My early work found that the locus coeruleus-arousal system of female rats was more sensitive to CRF than that of male rats due to sex differences in the CRF1 receptor. Recently, my lab as been looking at other regions that are a target of CRF regulation with a focus on cholinergic areas. My former grad student, Kim Wiersielis, found that CRF in the medial septum (a major source of acetylcholine for the hippocampus) impairs spatial learning in male and female rats. However, males are more sensitive, responding to a low dose of CRF in the medial septum that does not affect females. Females may be protected from low levels of CRF in the medial septum, because in this region they have more CRF binding protein, an endogenous protein that sequesters CRF preventing its bioavailability. My lab was recently funded by the NSF to follow up on this project and determine what causes these sex differences, discover more about CRF binding protein (e.g., what septal cells produce it, etc.), and link CRF in the medial septum to hippocampal changes in acetylcholine release.  What I find fascinating about CRF is that there are sex differences in sensitivity to this important stress neuropeptide, but they are region specific. Of course, stress affects both sexes. However, sex differences in CRF sensitivity can drive different responses to stress that may, in some cases, lead to different stress vulnerabilities in males vs. females. Psychiatric disorders are exacerbated by stress, and epidemiological data reveal that women are more likely to suffer from disorders with hyperarousal features, such as PTSD, and men are more likely to suffer from disorders with cognitive deficits, such as schizophrenia. It is possible that sex differences in stress responses contribute to some of the sex differences in psychiatric disorders. 
+
+###__If you weren’t a scientist, what would you be?__
+
+I’ve always loved scuba diving, so my back up plan is to own a dive shop on a tropical island.
+
+###__What is the best part about being a PI?__
+
+I have two favorite parts: discovery and mentoring. It is so exciting to get new data, especially if it is unexpected and challenges my preconceived notions about how something would turn out. I also enjoy training and mentoring students. We have a lot of undergrads in the lab, who understandably have no experience. It’s great to see them go from learning lab basics to contributing intellectually to projects. Mentoring grad students is also rewarding. I’m always impressed with how quickly they gain expertise and begin to drive their science. I’m so lucky to have a job where I can help facilitate this growth. 
+
+###__What is your favorite bird?__
+
+Tree swallows. They return to southeastern Pennsylvania in mid-March when I’m so sick of winter. Not only are they beautiful, but they give me hope that spring will arrive. 
+
+![_Picture of a tree swallow taken by Dr. Bangasser, who is also a talented photographer._](./photos/DebbieBird.jpg)
+
+###__What is your go-to karaoke song?__
+
+I’m a terrible singer, so my song choices are ones where I can distract from my singing with my performance. I have three: Jolene, Sweet Child of Mine, and Home Sweet Home. 
+
+###__What is the best vacation you’ve ever been on?__
+
+I’ve been lucky to travel to many amazing places, but when pressed, Raja Ampat, Indonesia. It has the best coral reef I have ever seen, and, in fact, it is the world’s most biodiverse marine region. Also, I saw and photographed two birds-of-paradise species (Not the flower, the actual birds. Think David Attenborough). 
+
+###__What’s the best show you’ve ever seen?__
+
+Hamilton. It was amazing!!! I already loved the songs but seeing it with the dancing was even better! _[Editor's note: Firm agree.]_
+
+###__What do you love about the Pavlovian Society?__
+
+The Pavlovian Society meeting was the first meeting I went to. I just started grad school when Tracey Shors (my grad mentor) was president. What I didn’t appreciate until I went to SfN, was how Pavlovian Society was great for networking. It was a meeting where, as a trainee, I could meet and chat with leaders in the field. It was also good for meeting other trainees, and in fact, I’m still friends with many of the trainees I met in the olden days.  
+
+![_Dr. Bangasser with a cassowary, which at least [one source](https://www.guinnessworldrecords.com/news/2019/4/why-the-cassowary-is-the-worlds-most-dangerous-bird-568931/) claims is the world's most dangerous bird._](./photos/Debbie2.jpg)
+
+---
+
 #April, 2020: Dr. Michael Saddoris
 
 ![_Dr. Saddoris (back row, second from right) with his lab at The University of Colorado Boulder._](./photos/Saddoris1.jpg)
