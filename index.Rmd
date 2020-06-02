@@ -17,6 +17,48 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
+#June, 2020: Dr. Maria Diehl
+
+Dr. Diehl earned her doctorate at the University of Rochester School of Medicine and completed postdoctoral work at the University of Puerto Rico School of Medicine. [In her lab](https://www.diehllab.com/home) at Kansas State University, Dr. Diehl and her students examine the neural substrates that underlie active avoidance learning using single-unit electrophysiology and optogenetics, as well as how social cues influence this type of avoidance. 
+
+<a href="https://twitter.com/DrDiehl_neuro?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @DrDiehl_neuro</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+###__What project are you currently most excited about in your lab?__
+
+I’m developing a new task to look at how social cues can influence active avoidance. Using the platform-mediated avoidance task, I’m going to train rats to learn avoidance with a social partner. Their partner will have different experiences related to fear/avoidance, and I want to know how the learned experiences of the partner affect the other rats’ learning of avoidance. We would hypothesize that a partner already familiar with avoidance would cause the other rat to learn avoidance quickly through observational learning. But would a fearful partner have the same effect or might it impair avoidance learning of the other rat? I’m using this paradigm to understand how individuals develop resiliency through social cues/interactions.
+
+###__What is the best part about being a PI?__
+
+Definitely being able to set my own schedule and being my own boss. It is so fun for me to come up with interesting scientific questions about the brain and behavior and be able to design the experiments and find the answers. 
+
+###__If you weren’t a scientist, what would you be?__
+
+I think if I were not a scientist, I would want to start a dog rescue organization. It is so sad to see abandoned, mistreated, and lonely dogs! My dog Sinfo (pronounced SEEN-foe) is a rescue from Puerto Rico, and I love him so much. I would love to be able to give a loving home to a stray dog and also give a lonely, loving dog to a person who needs the companionship!
+
+###__Are you a dog person or a cat person?__
+
+Dog person! I’m sure you could tell from my answer above. Cats are cool too, especially if they act like dogs.
+
+###__What is the best vacation you’ve ever been on?__
+
+I love adventure, and one of the most adventurous vacations I’ve been on was a trip I took with my husband to Guatemala to visit his brother who was working at an orphanage there. We explored Guatemala City and Antigua and also took a road trip to Copan Ruinas, Honduras during Easter. We saw some beautiful sites and met some very kind, amazing people.
+
+###__What’s been most challenging about starting a new lab?__
+
+Making so many big decisions. As a trainee, you often rely on your PI/mentor that they will know what to do, but then when you have your own lab, it’s all on you. There’s a lot to figure out that you weren’t exactly taught as a trainee, especially managing people and money. It’s good to find a community or support system who can give you advice on how to navigate being a New PI. Also, you have to organize your time and schedule really well, otherwise things you’ll end up forgetting about meetings and deadlines really fast!
+
+###__What’s been most rewarding about starting a new lab?__
+
+I love working with students and getting them excited about neuroscience. It’s awesome watching them become independent thinkers and come up with cool ideas for our research.
+
+###__What do you love about the Pavlovian Society?__
+
+I love the sense of community. It really seems like people lift each other up and support one another in a positive way. I’m excited to become more involved as New PI!
+
+---
+
 #May, 2020: Dr. Debra Bangasser
 
 ![_Dr. Bangasser (front row, second from right) with her lab at Temple University. On advice she'd have given herself as a trainee, she says, "I wish I could have told myself to focus on what I can control, acknowledge that there is a lot of luck but hard work eventually pays off, and remember that there are many paths to a rewarding career."_](./photos/Debbie1.jpg)
