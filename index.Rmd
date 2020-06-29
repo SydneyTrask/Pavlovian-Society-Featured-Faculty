@@ -17,6 +17,56 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
+#July, 2020: Dr. Caitlin Orsini
+
+![_Dr. Orsini in her lab at The University of Texas at Austin._](./photos/Orsinil1.jpeg)
+
+Dr. Orsini, an Assistant Professor of Psychology at The University of Texas at Austin, earned her PhD at the University of Michigan and completed her postdoctoral work at the University of Florida. In her lab at The University of Texas at Austin, Dr. Orsini and her trainees study the neural mechanisms of maladpative decision making underlying neuropsychiatric diseases, including substance abuse disorders and post-traumatic stress disorder, as well as the influence of gonadal hormones on these processes.
+
+<a href="https://twitter.com/CaitAnne?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @CaitAnne</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+###__What project are you currently most excited about in your lab?__
+
+Although I am passionate about all of the ongoing projects in the lab, I am really excited about our work focusing on identifying the neurobiology underlying hormonal regulation of decision making. I think the findings from these experiments may hold significant promise for developing strategies to rescue cognitive impairments that contribute to the persistent nature of substance use disorders. Stay tuned.
+ 
+###__What is the best part about being a PI?__
+
+I think the best part about being a PI is also the most challenging. I now have the freedom and latitude to develop a research program and a research team focused on scientific issues that I care deeply about. This is not to say I did not care about the work I did as a PhD student and a postdoctoral fellow; in those positions, however, my focus was guided and influenced by my supervisors. As a PI, I am now the one who dictates the direction of the lab and who now influences the trainees in my own lab. With this creative freedom and independence also comes an immense amount of responsibility, for the continued productivity of the lab and for my trainees. Although this is a challenging part of the job, I still wake up every day excited by the possibility of scientific discovery and the knowledge that I can contribute to its pursuit.
+
+###__If you weren’t a scientist, what would you be?__
+
+I would undoubtedly be a veterinarian. 
+ 
+###__What is the best concert you’ve ever been to?__
+
+Most recently, Mumford & Sons. The Chicks are a close second, but that concert was many years ago (yet still memorable). 
+ 
+###__What’s your go-to dessert?__
+
+Chocolate chip banana cake with chocolate cream cheese icing (happy to share the recipe).
+ 
+###__What is the best vacation you’ve ever been on?__
+
+The best vacation was a trip to Napa Valley with my husband for our five-year wedding anniversary. 
+
+###__What’s been most rewarding about starting a new lab?__
+
+One of the most rewarding aspects of starting a new lab is to see my vision of the lab become reality. As an incessant planner, I had designed and planned the layout and structure of the lab long before I arrived at UT. The process of acting upon those plans and building the lab was more gratifying than I had anticipated. The final product is one that I am immensely proud of. Equally rewarding, however, was accepting my first PhD student and mentoring her as we both began these new chapters of our lives. As a new PI, I have the time and ability to work closely with my trainees and I therefore see firsthand how they develop as scientists. The reason I pursued a career in academia was borne out of my desire to have the same impact my mentors had on me. I now have that opportunity and it is one of the most fulfilling parts of my job.
+
+###__What do you wish you knew when you were a trainee about running a lab?__
+
+The amount of time spent responding to emails. When I first started my lab, I could not believe how much time I spent on emails. Because I felt distracted and interrupted when I kept my email open during the day, I have since self-imposed an email policy where I only check it in the morning and in the afternoon, spending 30 minutes each time managing emails before closing it again and returning to what I had been doing.
+ 
+###__What do you love about the Pavlovian Society?__
+
+There are so many things to love about the Pavlovian Society, but I will highlight two. First, the scientific community is supportive and caring, creating the feeling of a large family rather than a professional organization. The second thing that I most appreciate about the Pavlovian Society is the almost singular focus on understanding behavior. We are often distracted by new techniques and methods to examine the neurobiological basis of behavior, but to be able to use those tools effectively, we still need to understand the complexity of the behavior itself. Ultimately, don’t we all want to know why we do what we do? The Pavlovian Society epitomizes this sentiment (although not at the expense of innovative neuroscience) and, for this reason, it will always remain one of my favorite scientific communities.
+
+![_Dr. Orsini with her very dapper dog, Connor._](./photos/Orsini2.jpeg)
+
+---
+
 #June, 2020: Dr. Maria Diehl
 
 ![_Dr. Diehl setting up an optogenetics experiment and testing the light intensity of a blue laser._](./photos/Diehl1.jpg)
