@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 #July, 2020: Dr. Caitlin Orsini
 
-![_Dr. Orsini in her lab at The University of Texas at Austin._](./photos/Orsinil1.jpeg)
+![_Dr. Orsini in her lab at The University of Texas at Austin._](./photos/Orsini1.jpeg)
 
 Dr. Orsini, an Assistant Professor of Psychology at The University of Texas at Austin, earned her PhD at the University of Michigan and completed her postdoctoral work at the University of Florida. In her lab at The University of Texas at Austin, Dr. Orsini and her trainees study the neural mechanisms of maladpative decision making underlying neuropsychiatric diseases, including substance abuse disorders and post-traumatic stress disorder, as well as the influence of gonadal hormones on these processes.
 
