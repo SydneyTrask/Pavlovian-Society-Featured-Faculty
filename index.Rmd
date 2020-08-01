@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 #August, 2020: Dr. Gorica Petrovich
 
-![_Dr. Petrovich in her office at Boston College. Photo Credit: Lee Pellegrini, Boston College._](./photos/Petrovich1.jpg)
+![_Dr. Petrovich in her office at Boston College. Photo Credit: Lee Pellegrini, Boston College._](./photos/Petrovich1.jpeg)
 
 Dr. Gorica Petrovich is a Professor of Psychology and Neuroscience at Boston College. She earned her PhD at the University of Southern California before completing her postdoctoral work at Johns Hopkins University. In her lab at Boston College, Dr. Petrovich and her trainees study the neurobiological mechanisms that underlie motivated behavior, including sex differences in feeding behavior and circuit-level plasticity. 
 
@@ -64,7 +64,7 @@ That running a successful lab requires management and business skills that we do
 
 The people, from my early mentors and colleagues over the years to inspiring young members, the shared interest in behavior and learning & memory, excellent science, and a balanced focus on conceptual innovation and neural/methodological advancements. 
 
-![_Dr. Petrovich and her family on one of their first visits to Zion National Park in Utah. They have returned several times over the years._](./photos/Petrovich2.jpg)
+![_Dr. Petrovich and her family on one of their first visits to Zion National Park in Utah. They have returned several times over the years._](./photos/Petrovich2.jpeg)
 
 ---
 
