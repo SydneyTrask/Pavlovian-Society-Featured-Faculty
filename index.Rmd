@@ -14,6 +14,57 @@ knitr::opts_chunk$set(echo = FALSE)
 ---
 
 <a href="https://twitter.com/PavlovSociety?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @PavlovSociety</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
+
+#August, 2020: Dr. Gorica Petrovich
+
+![_Dr. Petrovich in her office at Boston College. Photo Credit: Lee Pellegrini, Boston College._](./photos/Petrovich1.jpg)
+
+Dr. Gorica Petrovich is a Professor of Psychology and Neuroscience at Boston College. She earned her PhD at the University of Southern California before completing her postdoctoral work at Johns Hopkins University. In her lab at Boston College, Dr. Petrovich and her trainees study the neurobiological mechanisms that underlie motivated behavior, including sex differences in feeding behavior and circuit-level plasticity. 
+
+---
+
+###__What project are you currently most excited about in your lab?__
+
+We have a few exciting, ongoing projects that span across my long-term interests in learning and memory, feeding behavior, sex differences, and the underlying neural systems and circuit-level plasticity. They also reflect my current interests in novelty processing and hedonic eating. Our most recent publication examined how novelty impacts feeding in male and female rats and found robust sex differences in habituation and currently we are identifying key neural substrates. Other projects are focused on the medial prefrontal cortex plasticity and the role of the paraventricular nucleus of the thalamus in context-mediated renewal of responding to food cues. We are also following up, with behavioral and neural analyses, on interesting sex differences in hedonic eating we recently observed; when fed palatable food, female rats consumed large amounts regardless of their hunger state, while males adjusted their consumption according to their physiological hunger/satiety. 
+
+###__What is the best part about being a PI?__
+
+The ability and freedom to conduct your own, unique line of research and mentoring future scientists!
+
+###__What did you want to be as a kid?__
+
+A doctor or a teacher.
+
+###__What is the best movie you’ve ever seen?__
+
+There are so many great movies that I could not only pick one. Instead, here are 3 that I first saw as a graduate student/postdoc (the first 2 as revivals), and have been thinking about over the years, because of their timeless messages, artistry and beauty:
+
+Ran (Akira Kurosawa)
+Pather Panchali (Satyajit Ray)
+The Matrix (Lana Wachowski, Lilly Wachowski)
+
+###__What’s your ideal birthday dinner?__
+
+A picnic enjoyed with family and friends, ideally after a hike.
+
+###__What is the best vacation you’ve ever been on?__
+
+Each time my family returns to Zion National Park in Utah, in the springtime.
+
+###__What’s been the most surprising finding from your lab?__
+
+Initially, we were surprised to find that female rats inhibited feeding much longer than males when repeatedly tested with a fear cue. Since then we have found similar effects—prolonged cessation of feeding in females compared to males—with aversive discrete and contextual conditioned stimuli and, most recently, when rats were habituating to eating novel food in a novel context. These findings indicate a stronger drive in females to sustain low food intake when faced with danger or uncertainty.
+
+###__What do you wish you knew when you were a trainee about running a lab?__
+
+That running a successful lab requires management and business skills that we do not typically learn during our research training. These skills can also be helpful when raising a young family during tenure track.
+
+###__What do you love about the Pavlovian Society?__
+
+The people, from my early mentors and colleagues over the years to inspiring young members, the shared interest in behavior and learning & memory, excellent science, and a balanced focus on conceptual innovation and neural/methodological advancements. 
+
+![_Dr. Petrovich and her family on one of their first visits to Zion National Park in Utah. They have returned several times over the years._](./photos/Petrovich2.jpg)
 
 ---
 
