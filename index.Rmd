@@ -26,7 +26,7 @@ Dr. Gorica Petrovich is a Professor of Psychology and Neuroscience at Boston Col
 
 ###__What project are you currently most excited about in your lab?__
 
-We have a few exciting, ongoing projects that span across my long-term interests in learning and memory, feeding behavior, sex differences, and the underlying neural systems and circuit-level plasticity. They also reflect my current interests in novelty processing and hedonic eating. Our most recent publication examined how novelty impacts feeding in male and female rats and found robust sex differences in habituation and currently we are identifying key neural substrates. Other projects are focused on the medial prefrontal cortex plasticity and the role of the paraventricular nucleus of the thalamus in context-mediated renewal of responding to food cues. We are also following up, with behavioral and neural analyses, on interesting sex differences in hedonic eating we recently observed; when fed palatable food, female rats consumed large amounts regardless of their hunger state, while males adjusted their consumption according to their physiological hunger/satiety. 
+We have a few exciting, ongoing projects that span across my long-term interests in learning and memory, feeding behavior, sex differences, and the underlying neural systems and circuit-level plasticity. They also reflect my current interests in novelty processing and hedonic eating. Our most recent publication examined how novelty impacts feeding and found robust sex differences in habituation and currently we are identifying key neural substrates. We are also following up, with behavioral and neural analyses, on another intriguing finding that males and females differ in palatable food consumption when sated. Other projects are focused on the medial prefrontal cortex plasticity and the role of the paraventricular nucleus of the thalamus in context-mediated renewal of responding to food cues after extinction.
 
 ###__What is the best part about being a PI?__
 
@@ -54,7 +54,7 @@ Each time my family returns to Zion National Park in Utah, in the springtime.
 
 ###__What’s been the most surprising finding from your lab?__
 
-Initially, we were surprised to find that female rats inhibited feeding much longer than males when repeatedly tested with a fear cue. Since then we have found similar effects—prolonged cessation of feeding in females compared to males—with aversive discrete and contextual conditioned stimuli and, most recently, when rats were habituating to eating novel food in a novel context. These findings indicate a stronger drive in females to sustain low food intake when faced with danger or uncertainty.
+Initially, we were surprised to find sex differences in feeding cessation under fear. Since then we have found similar effects—prolonged inhibition of feeding in females—with discrete and contextual conditioned stimuli and, most recently, during habituation to eating in a novel context. These findings indicate a stronger drive in females to suppress food intake when faced with danger or uncertainty.
 
 ###__What do you wish you knew when you were a trainee about running a lab?__
 
