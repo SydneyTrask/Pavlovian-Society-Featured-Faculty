@@ -16,6 +16,16 @@ knitr::opts_chunk$set(echo = FALSE)
 <a href="https://twitter.com/PavlovSociety?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @PavlovSociety</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ---
 
+#September, 2020: Enjoy the meeting!
+
+We hope to "see" you all at the virtual meeting of the Pavlovian Society on September 10-11, 2020!
+
+![_We hope to "see" you all at the virtual meeting of the Pavlovian Society on September 10-11, 2020!_](./photos/Poster.jpg)
+
+
+
+---
+
 #August, 2020: Dr. Gorica Petrovich
 
 ![_Dr. Petrovich in her office at Boston College. Photo Credit: Lee Pellegrini, Boston College._](./photos/Petrovich1.jpeg)
