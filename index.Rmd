@@ -18,8 +18,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 #September, 2020: Enjoy the meeting!
 
-We hope to "see" you all at the virtual meeting of the Pavlovian Society on September 10-11, 2020!
-
 ![_We hope to "see" you all at the virtual meeting of the Pavlovian Society on September 10-11, 2020!_](./photos/Poster.jpg)
 
 
