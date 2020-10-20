@@ -19,6 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 #October, 2020: Dr. Abha Rajbhandari
 
 ![_Dr. Rajbhandari in her lab at Mount Sinai._](./photos/Abha1.jpeg)
+
 Dr. Abha Rajbhandari is an Assistant Professor of Neuroscience and Psychiatry at the Icahn School of Medicine at Mount Sinai. She completed her PhD at the University of Wisconsin-Madison and conducted her postdoctoral training at UCLA. In her lab, Dr. Rajbhandari and her trainees study the interactions between the brain and body via the sympathetic and parasympathetic pathways in regulating fear and stress and associated changes in cardiorespiratory functions and metabolism. 
 
 <a href="https://twitter.com/CosmicOmBrain?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @CosmicOmBrain</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -62,6 +63,7 @@ Cosmos: A Personal Voyage. I am huge Carl Sagan fan!
 I just love that it is such a tight-knit community. There is so much collegiality, support and lasting bonds that I have made through this society, where everyone seems to understand each other so much better.
 
 ![_Dr. Rajbhandari at Joshua Tree National Park in California._](./photos/Abha2.jpeg)
+
 ---
 
 #September, 2020: Enjoy the meeting!
