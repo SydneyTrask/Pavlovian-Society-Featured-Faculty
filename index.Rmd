@@ -16,6 +16,54 @@ knitr::opts_chunk$set(echo = FALSE)
 <a href="https://twitter.com/PavlovSociety?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @PavlovSociety</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ---
 
+#October, 2020: Dr. Abha Rajbhandari
+
+![_Dr. Rajbhandari in her lab at Mount Sinai._](./photos/Abha1.jpeg)
+Dr. Abha Rajbhandari is an Assistant Professor of Neuroscience and Psychiatry at the Icahn School of Medicine at Mount Sinai. She completed her PhD at the University of Wisconsin-Madison and conducted her postdoctoral training at UCLA. In her lab, Dr. Rajbhandari and her trainees study the interactions between the brain and body via the sympathetic and parasympathetic pathways in regulating fear and stress and associated changes in cardiorespiratory functions and metabolism. 
+
+<a href="https://twitter.com/CosmicOmBrain?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @CosmicOmBrain</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+###__What project are you currently most excited about in your lab?__
+
+Investigating the brain and body pathways in fear and stress is in fact a new line of enquiry for me, so I am excited about all aspects of the projects related to this question. The project where we are exploring the role of the vagus nerve pathways for parasympathetic regulation of fear, stress and associated cardiorespiratory functions is very exciting to me for one other reason. I am enthusiastic about this project because it relates to the neurobiological mechanisms of practices like yoga, which I am a big proponent of, that is known to have beneficial effects for fear, stress and anxiety via actions on the vagus nerve.
+
+###__What is the best part about being a PI?__
+
+The best part is the freedom to answer any scientific question I am curious about. I am just enjoying this early phase in my career to develop my independent research plans and explore questions that had been lingering for a long time. I also love the ability to manage my own time, which can also be the hardest part sometimes. 
+
+###__If you weren’t a scientist, what would you be?__
+
+Before moving to the US for my undergraduate from Nepal, my parents had given me two options (like a typical South Asian parent)-become a doctor or an engineer. I chose to come to the US to pursue electrical engineering which was also my major in my first year. I quickly realized after taking neuroscience classes that that is where my real interests lay. If I had continued that route I probably would have become an engineer according to my parents’ choice. My choice would be a full-time yoga teacher. I love sharing the practice of yoga as much as I do love science!
+
+###__What is your favorite birthday meal?__
+
+I am very much a dessert person and always save room for one, so a big thick slice of triple layered chocolate cake would be the best thing - something along the lines of death by chocolate.
+
+###__One of the highlights of the Pavlovian meeting was the impromptu visit from your son. What’s your favorite part of being a mom?__
+
+Thank you, yes that was quite a surprise for me too! I love how every day is like an adventure with my son. He has just started giving me “love you” notes every day and it just melts my heart. I love seeing the world and experiencing it from his perspective. For instance, it is an indescribable feeling of joy to watch him enjoying something yummy or a new place of fun for the first time. 
+
+###__What is the best vacation you’ve ever been on?__
+
+My favorite all time place is Bali, Indonesia. We spend 10 days there right before starting faculty position. The endless places of nature, culture, food and people there were just so amazing to experience that I can’t wait to go back again. 
+
+###__What advice would you give yourself as a trainee?__
+
+I would simply say enjoy the present moment and do the best you can with everything, but don’t fret too much about the future and ruin what you are doing in the present. Things can change so much in the future.
+
+###__What’s the best show you’ve ever seen?__
+
+Cosmos: A Personal Voyage. I am huge Carl Sagan fan! 
+
+###__What do you love about the Pavlovian Society?__
+
+I just love that it is such a tight-knit community. There is so much collegiality, support and lasting bonds that I have made through this society, where everyone seems to understand each other so much better.
+
+![_Dr. Rajbhandari at Joshua Tree National Park in California._](./photos/Abha2.jpeg)
+---
+
 #September, 2020: Enjoy the meeting!
 
 ![_We hope to "see" you all at the virtual meeting of the Pavlovian Society on September 10-11, 2020!_](./photos/Poster.jpg)
