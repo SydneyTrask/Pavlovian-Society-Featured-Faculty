@@ -14,6 +14,62 @@ knitr::opts_chunk$set(echo = FALSE)
 ---
 
 <a href="https://twitter.com/PavlovSociety?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @PavlovSociety</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+#November, 2020: Dr. Moriel Zelikowsky
+
+![_Dr. Zelikowsky in her lab at The University of Utah._](./photos/Moriel1.jpeg)
+
+Dr. Zelikowsky earned her doctorate at the University of California, Los Angeles before completing her postdoctoral work at the California Institute of Technology. In her lab at the University of Utah, Dr. Zelikowsky and her students study how social behaviors interact with learning and memory, and are particularly interested in how the effects of social isolation impact later fear learning.
+
+<a href="https://twitter.com/moriel_z
+?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @moriel_z</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+###__What project are you currently most excited about in your lab?__
+
+I’m really excited about a new project we have in the lab looking at the effects of social isolation on mouse courtship song and mating behavior. We are finding that isolation has a maladaptive effect on both and are now starting to dissect the neural circuit.
+
+###__What is the best part about being a PI?__
+
+Talking science with my mentees!I love interacting with my students and postdocs to come up with cool experimental designs and to interpret their exciting new data.
+
+###__If you weren’t a scientist, what would you be?__
+
+A film producer or maybe a rock climber if I could hack it!
+
+###__Who is your scientific role model?__
+
+Rosalind Franklin – the tenacity!
+
+###__How has your work been impacted by COVID-19?__
+
+Everything is still moving forward but in slow motion and with interruptions. I try not to get too frustrated and just accept the situation and that we are all in it together.
+
+###__What is the best vacation you’ve ever been on?__
+
+That’s a tough one. I love travelling and have luckily gotten a lot of opportunities to explore the world. But I would say probably deep-water soloing in Vietnam (pre-kids!).
+
+###__What’s your favorite holiday?__
+
+Halloween. Fall vibes, silliness, candy – you can’t go wrong.
+
+###__What advice would you give yourself as a trainee?__
+
+Appreciate this time of unfiltered curiosity, unlimited scientific possibilities and relatively little responsibility.
+
+###__Since starting Women in Learning, it has become an integral part of the Pavlovian Society meeting and community. What’s been the best part about helming Women in Learning for the last ten years?__
+
+The best part has been seeing the next generation of women taking it over – running with it and doing incredible things. I also feel like it has brought the entire Pavlovian community together and I still get really excited about that at every event.
+
+###__What do you love about the Pavlovian Society?__
+
+ I love how the Pavlovian Society feels like a family (and minus most of the disfunction!).
+ 
+ ![_Dr. Zelikowsky rock climbing, which she says she would do full time if she wasn't a scientist._](./photos/Moriel2.jpeg)
+
 ---
 
 #October, 2020: Dr. Abha Rajbhandari
